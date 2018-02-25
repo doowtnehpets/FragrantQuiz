@@ -1,7 +1,42 @@
 <resources>
     <string name="app_name">Fragrant Quiz</string>
 
+    <!-- Title Strings -->
     <string name="title">Welcome to the Fragrant Quiz</string>
     <string name="subtitle">How well do you smell?</string>
 
+    <!-- Question 1 -->
+    <string name="question1">What is the most popular note used in fragrances?</string>
+    <string name="question1_answer1">Peach</string>
+    <string name="question1_answer2">Bergamot</string>
+    <string name="question1_answer3">Mandarin Orange</string>
+    <string name="question1_answer4">Green Notes</string>
+
+    <!-- Question 2 -->
+    <string name="question2">What popular Arabian niche fragrance house makes bottles shaped like the picture above?</string>
+    <string name="question2_hint">Fragrance House</string>
+
+    <!-- Question 3 -->
+    <string name="question3">What expensive fragrance ingredient actually originates as a secretion in the intestines of sperm whales?</string>
+    <string name="question3_answer1">Opoponax</string>
+    <string name="question3_answer2">Castoreum</string>
+    <string name="question3_answer3">Ambergris</string>
+    <string name="question3_answer4">Musk</string>
+
+    <!-- Question 4 -->
+    <string name="question4">Resins are often used in fragrances. What 2 resins were given as gifts when Jesus was born?</string>
+    <string name="question4_answer1">Elemi</string>
+    <string name="question4_answer2">Myrrh</string>
+    <string name="question4_answer3">Benzoin</string>
+    <string name="question4_answer4">Frankincense</string>
+
+    <!-- Question 5 -->
+    <string name="question5">What year was the famous fragrance house Creed established?</string>
+    <string name="question5_answer1">1992</string>
+    <string name="question5_answer2">1802</string>
+    <string name="question5_answer3">2012</string>
+    <string name="question5_answer4">1760</string>
+
+    <!-- Submit Button -->
+    <string name="submit_button">Submit Answers</string>
 </resources>
