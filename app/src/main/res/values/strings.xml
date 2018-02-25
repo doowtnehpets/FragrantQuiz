@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Fragrant Quiz</string>
 
     <!-- Title Strings -->
@@ -14,6 +14,7 @@
 
     <!-- Question 2 -->
     <string name="question2">What popular Arabian niche fragrance house makes bottles shaped like the picture above?</string>
+    <string name="question2_answer">Amouage</string>
     <string name="question2_hint">Fragrance House</string>
 
     <!-- Question 3 -->
@@ -40,4 +41,10 @@
     <!-- Submit Button -->
     <string name="submit_text">Thank you for taking the Fragrant Quiz. Click the button below to see how well you smell.</string>
     <string name="submit_button">Submit Answers</string>
+
+    <!-- Toast Messages -->
+    <string name="all_questions">Please answer all of the questions before submitting your answers</string>
+    <string name="grade_good">You smell great! You got <xliff:g example="true" id="score">%d</xliff:g> out of 5 questions correct</string>
+    <string name="grade_bad">You stink! You got <xliff:g example="true" id="score">%d</xliff:g> out of 5 questions correct</string>
+    <string name="grade_amazing">You smell amazing! You got all <xliff:g example="true" id="score">%d</xliff:g> out of 5 questions correct</string>
 </resources>
