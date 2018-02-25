@@ -207,28 +207,28 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question4_answer1"
-                android:textSize="16sp"/>
+                android:textSize="16sp" />
 
             <CheckBox
                 android:id="@+id/question4_answer2_checkbox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question4_answer2"
-                android:textSize="16sp"/>
+                android:textSize="16sp" />
 
             <CheckBox
                 android:id="@+id/question4_answer3_checkbox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question4_answer3"
-                android:textSize="16sp"/>
+                android:textSize="16sp" />
 
             <CheckBox
                 android:id="@+id/question4_answer4_checkbox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question4_answer4"
-                android:textSize="16sp"/>
+                android:textSize="16sp" />
         </LinearLayout>
 
 <!--*********** Question 5 ******************************************-->
@@ -285,7 +285,7 @@
                 android:textSize="16sp" />
         </RadioGroup>
 
-<!--*****************************************************************-->
+<!--******* End of Quiz ********************************************-->
 
         <TextView
             android:layout_width="match_parent"
