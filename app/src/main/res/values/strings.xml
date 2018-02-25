@@ -38,5 +38,6 @@
     <string name="question5_answer4">1760</string>
 
     <!-- Submit Button -->
+    <string name="submit_text">Thank you for taking the Fragrant Quiz. Click the button below to see how well you smell.</string>
     <string name="submit_button">Submit Answers</string>
 </resources>
