@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragrant Quiz</string>
+
+    <string name="title">Welcome to the Fragrant Quiz</string>
+    <string name="subtitle">How well do you smell?</string>
+
+</resources>
