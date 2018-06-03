@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * Goes through each of the questions answered by the user and gives them a score
-     * @param view
+     * @param view the view
      */
     public void submitAnswers(View view) {
         int score = 0;
@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
             incompleteToastMessage();
             return;
         } else {
-            //Checks if the 2 correct answers are select and adds plus 1 to score if answer is correct
+            //Checks if the 2 correct answers are selected and adds plus 1 to score if answer is correct
             if (question4_answer2.isChecked() && question4_answer4.isChecked() &&
                     !question4_answer1.isChecked() && !question4_answer3.isChecked()) score++;
         }
